@@ -9,3 +9,4 @@ Creating a new branch is quickADNS.
 Creating a new branch is quickADNS.
 >>>>>>> feature
 Creating a new branch is quickADNS.
+Creating a new branch is quickADNS.
